@@ -17,4 +17,4 @@ n = int(input('Enter number of sides: '))
 polygon(n)
 
 screen=t.Screen()
-screen.exitonclick() oh
+screen.exitonclick()
